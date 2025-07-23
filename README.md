@@ -13,10 +13,10 @@ This is a simple **Quiz App** developed using **Jetpack Compose** in **Kotlin**.
 
 
 ## Screenshots
-<img <img width="252" height="565" alt="welcome" src="https://github.com/user-attachments/assets/16c144ba-c733-4248-9ba4-b683e3230e90" />
+ <img width="252" height="565" alt="welcome" src="https://github.com/user-attachments/assets/16c144ba-c733-4248-9ba4-b683e3230e90" />
  /> <img <img width="251" height="558" alt="quiz" src="https://github.com/user-attachments/assets/8030f600-78e5-4d38-b36b-1873a401795e" />
  /> <img <img width="251" height="561" alt="result" src="https://github.com/user-attachments/assets/051e7fba-d322-4e03-a6ee-abf4fdf2ddaf" />
- />
+ 
 
 
 
